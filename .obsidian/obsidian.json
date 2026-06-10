@@ -1,0 +1,10 @@
+{
+  "promptVersion": 1,
+  "promptNotice": "Open this folder as an Obsidian Vault for full wiki experience",
+  "promptSuggest": true,
+  "alwaysUseNewPane": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs"
+}

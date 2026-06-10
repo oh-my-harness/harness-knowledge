@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian worktrees
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/obsidian.md
+
+# Temp
+*.tmp
+*.swp
+*.swo
+
+# Scripts scratch
+scripts/scratch/
