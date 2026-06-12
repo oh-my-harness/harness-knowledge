@@ -35,3 +35,18 @@ updated: 2026-06-10
 ## 标签
 
 #agent #harness #tool-use #subagent #worktree #permissions
+
+## DeepTutor — Agentic Personalized Tutoring
+
+- link: [[docs/agent-harness/deeptutor.md]]
+- summary: HKU 开源智能体化辅导框架：混合个性化引擎 + 闭环任务辅导，TutorBench 评估 +10.76%，通用推理 +29.4%。
+
+## Reflexion — Verbal Reinforcement Learning
+
+- link: [[docs/agent-harness/reflexion.md]]
+- summary: 语言智能体通过自我反思进行强化学习：HumanEval 91% Pass@1 SOTA，ALFWorld 97% 成功率，无需微调。
+
+## FluxEDA — Stateful Agentic EDA Infrastructure
+
+- link: [[docs/agent-harness/fluxeda.md]]
+- summary: 浙江大学：统一有状态基础设施，使 LLM 智能体在商业 EDA 工具上执行多步迭代优化，支持状态回滚和分支探索。
