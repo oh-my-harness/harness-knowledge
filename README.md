@@ -62,6 +62,7 @@ Agent 运行时与 Harness 开发相关：
 - 保持 frontmatter 元数据完整
 - 善用双向链接建立知识关联
 - 重大变更前更新 `_index.md`
+- PDF 与附件遵循 [[pdf-assets|PDF 与附件维护规范]]
 
 ---
 

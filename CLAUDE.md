@@ -12,8 +12,12 @@
 ├── docs/
 │   ├── ai-coding/             # AI 辅助编程
 │   ├── rag-engineering/       # RAG & 知识工程
-│   └── agent-harness/         # Agent Harness
-├── assets/                    # 图片/资源文件
+│   ├── agent-harness/         # Agent Harness
+│   └── knowledge-base/        # 知识库维护规范
+├── assets/
+│   ├── papers/                # 论文、技术报告、白皮书
+│   ├── references/            # 手册、规范、官方资料
+│   └── images/                # 图片、截图、图表
 ├── scripts/                   # 辅助脚本
 ├── README.md                  # 首页导航
 └── CLAUDE.md                  # 此文件
@@ -25,8 +29,11 @@
 - 使用 `#tag` 标签系统
 - 新知识写在对应主题目录下，无法归类时建立新目录
 - 每个目录须有 `_index.md` 作为该目录入口
+- PDF 与附件放在 `assets/` 下，并遵循 [[pdf-assets|PDF 与附件维护规范]]
+- 重要 PDF 需要配套 Markdown 摘要卡片，原始 PDF 不直接替代知识笔记
 
 ## Workflow
 - 新增知识：在对应目录下创建 `.md` 文件
+- 新增 PDF：放入 `assets/papers/` 或 `assets/references/`，再创建或更新对应 Markdown 摘要卡片
 - 重构：发现跨领域内容时，在源文件留链接跳转
 - 定期检查 `_index.md` 确保链接完整
