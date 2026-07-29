@@ -41,6 +41,7 @@ updated: 2026-07-29
 
 - [[deeptutor|DeepTutor]] — HKU 开源智能体化辅导框架：混合个性化引擎 + 闭环任务辅导，TutorBench 评估 +10.76%，通用推理 +29.4%。
 - [[fluxeda|FluxEDA]] — 浙江大学：统一有状态基础设施，使 LLM 智能体在商业 EDA 工具上执行多步迭代优化，支持状态回滚和分支探索。
+- [[biomni|Biomni]] — Stanford 通用生物医学 AI Agent。Code-Act + XML 标签路由 + LangGraph 状态机 + LLM-as-Retriever 工具检索 + Gradio 双栏 UI + MCP 双向集成。
 
 ## HarnessX — 架构学习笔记
 
