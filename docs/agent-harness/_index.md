@@ -76,6 +76,7 @@ updated: 2026-07-29
 - [[survey-llm-based-autonomous-agents|LLM-based autonomous agents 综述]] — 按构建方法、应用场景和评测体系梳理 Agent 研究版图。
 - [[rise-and-potential-llm-based-agents|Rise and Potential of LLM-based Agents]] — 用 brain / perception / action 框架组织 LLM Agent，适合作为 Agent 系统架构的顶层参考。
 - [[survey-llm-based-multi-agents|多智能体综述]] — 覆盖角色、通信、组织结构、协作机制和应用场景。
+- [[self-improvements-in-modern-agentic-systems|自提升智能体综述]] — 二元架构（模型+Harness）+ 两条正交优化路径 + AEGIS/GRPO + 三大失效模式，与 [[harnessx]] 互为理论/工程互补。
 
 ### 架构、规划、记忆与反思
 
