@@ -19,6 +19,10 @@ updated: 2026-07-29
 - [Context 管理](context-management.md) — 上下文窗口策略
 - [Hook 系统](hook-system.md) — 扩展点与事件系统
 
+## 演讲与观点
+
+- [[hao-jianye-harness-determines-upper-bound|基模决定下限，Agent Harness 决定能力上限]] — 郝建业（天津大学/MemoraX AI），AgenticAICon2026。范式演进 Prompt→Context→Harness Engineering；工具/记忆/安全三大挑战；记忆作为独立核心能力。
+
 ## Strands Agents SDK — 架构学习笔记
 
 > [strands-agents/](strands-agents/) — 开源 AI Agent SDK（Python + TypeScript）的完整架构学习
