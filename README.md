@@ -2,7 +2,7 @@
 title: LLM Wiki 首页
 tags: [home, index]
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-07-29
 ---
 
 # 🧠 LLM Wiki
@@ -46,6 +46,7 @@ Agent 运行时与 Harness 开发相关：
 - **[[permission-model|权限模型]]** — 安全与授权框架
 - **[[context-management-harness|Context 管理]]** — 上下文窗口策略
 - **[[hook-system|Hook 系统]]** — 扩展点与事件系统
+- **[[strands-agents-sdk|Strands Agents SDK]]** — 开源 Agent SDK 架构学习（Agent Loop / 多模型 / 工具系统 / Hooks/Middleware / 多 Agent / 沙箱）
 
 ---
 
