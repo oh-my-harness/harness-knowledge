@@ -11,13 +11,14 @@ updated: 2026-07-29
 
 ## 目录索引
 
-- [Harness 架构设计](harness-architecture.md) — 运行时架构核心模式
-- [Tool Use 系统](tool-use-system.md) — 工具调用与注册机制
-- [Subagent 调度](subagent-dispatch.md) — 子 Agent 调度与编排
-- [Worktree 管理](worktree-management.md) — 隔离工作区方案
-- [权限模型](permission-model.md) — 安全与授权框架
-- [Context 管理](context-management.md) — 上下文窗口策略
-- [Hook 系统](hook-system.md) — 扩展点与事件系统
+> 以下主题已融入下方各章节，不再单独建页。
+- Harness 架构设计 → [[strands-agent-loop|Strands Agent Loop]] / [[harnessx-framework-composition|HarnessX 框架组合机制]]
+- Tool Use 系统 → [[strands-tool-system|Strands 工具系统]] / [[harnessx-sandbox-tools-rl|HarnessX 沙箱/工具/RL]]
+- Subagent 调度 → [[strands-multi-agent-session|Strands 多 Agent]] / [[harnessx-sandbox-tools-rl|spawn_subagent]]
+- Worktree 管理 → [[harnessx-sandbox-tools-rl|HarnessX 沙箱/工具/RL]]（Workspace 与 Skills）
+- 权限模型 → [[strands-sandbox-safety|Strands 沙箱/安全]] / [[harnessx-sandbox-tools-rl|HarnessX 沙箱]]
+- Context 管理 → [[strands-agent-loop|Strands Agent Loop]]（反应式+主动式上下文管理）
+- Hook 系统 → [[strands-hooks-middleware|Strands Hooks/Middleware]] / [[harnessx-framework-composition|HarnessX 8 钩子]]
 
 ## 演讲与观点
 
