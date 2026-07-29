@@ -47,6 +47,7 @@ Agent 运行时与 Harness 开发相关：
 - **[[context-management-harness|Context 管理]]** — 上下文窗口策略
 - **[[hook-system|Hook 系统]]** — 扩展点与事件系统
 - **[[strands-agents-sdk|Strands Agents SDK]]** — 开源 Agent SDK 架构学习（Agent Loop / 多模型 / 工具系统 / Hooks/Middleware / 多 Agent / 沙箱）
+- **[[harnessx|HarnessX]]** — 可组合、自适应、可演进的 Agent 运行框架工厂（9 维组件 / AEGIS 演化 / 协同优化 / 5 基准评测）
 
 ---
 

@@ -38,6 +38,16 @@ updated: 2026-07-29
 - [[deeptutor|DeepTutor]] — HKU 开源智能体化辅导框架：混合个性化引擎 + 闭环任务辅导，TutorBench 评估 +10.76%，通用推理 +29.4%。
 - [[fluxeda|FluxEDA]] — 浙江大学：统一有状态基础设施，使 LLM 智能体在商业 EDA 工具上执行多步迭代优化，支持状态回滚和分支探索。
 
+## HarnessX — 架构学习笔记
+
+> [harnessx/](harnessx/) — 可组合、自适应、可演进的智能 Agent 运行框架工厂
+
+- [[harnessx|HarnessX（源摘要）]] — 9 维类型化组件 + AEGIS 演化引擎 + 框架-模型协同优化闭环，5 基准平均 +14.5%。
+- [[harnessx-benchmark-evaluation|Benchmark 评测体系]] — 5 个基准适配器（GAIA/SWE-bench/TAU2/TB2/LoCoMo），15 个可复用 bench 模式。
+- [[harnessx-framework-composition|框架组合机制]] — 8 钩子 + Processor 管道 + HarnessBuilder `|` 组合 + 13 个 Control 处理器。
+- [[harnessx-aegis-evolution|AEGIS 演化引擎]] — Digester/Planner/Evolver/Critic + Seesaw 约束 + 跨框架 GRPO 协同演化。
+- [[harnessx-sandbox-tools-rl|沙箱 / 工具 / RL 训练]] — ContextVar 沙箱注入 + 双轨 JSONL tracing + SGLangProvider token 级 RL 训练桥。
+
 ## 核心关注
 
 1. **安全边界** — 代码执行、文件系统、网络调用的安全隔离
