@@ -38,10 +38,10 @@ updated: 2026-06-10
 
 ## OPRO — LLM as Optimizer
 
-- link: [[docs/rag-engineering/opro.md]]
+- link: [[opro]]
 - summary: ICLR 2024 论文：利用 LLM 作为优化器，通过自然语言 prompt 迭代寻找最优解；在 GSM8K 和 BBH 上显著超越人工设计指令。
 
 ## LightRAG — Graph-Enhanced RAG
 
-- link: [[docs/rag-engineering/lightrag.md]]
+- link: [[lightrag]]
 - summary: EMNLP 2025 论文：引入图结构到 RAG 索引与检索，双层检索范式 + 增量更新，效率远超 GraphRAG。

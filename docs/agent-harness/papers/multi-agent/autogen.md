@@ -43,7 +43,7 @@ AutoGen 是一个面向多 Agent 对话应用的框架，通过可配置 Agent�
 
 - [[camel-communicative-agents]]
 - [[survey-llm-based-multi-agents]]
-- [[subagent-dispatch]]
+- subagent-dispatch
 
 ## 局限与待验证
 

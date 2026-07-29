@@ -43,7 +43,7 @@ Mind2Web 提供真实网站上的 Web Agent 数据集，要求 Agent 根据自�
 
 - [[webarena]]
 - [[visualwebarena]]
-- [[tool-use-system]]
+- tool-use-system
 
 ## 局限与待验证
 

@@ -62,7 +62,7 @@ openai-tool-use-reference.pdf
 如果需要利用 Obsidian 的附件打开能力，也可以使用 wikilink：
 
 ```markdown
-[[assets/papers/agent-harness/2024-agent-harness-runtime-patterns.pdf]]
+`assets/papers/agent-harness/2024-agent-harness-runtime-patterns.pdf`
 ```
 
 同一篇 PDF 如果被多篇笔记引用，不要复制多份文件。保留一个原始 PDF，并在相关 Markdown 笔记中链接它。
@@ -100,8 +100,8 @@ source: ../../assets/papers/agent-harness/2024-agent-harness-runtime-patterns.pd
 
 ## 关联笔记
 
-- [[harness-architecture]]
-- [[tool-use-system]]
+- harness-architecture
+- tool-use-system
 ```
 
 ## Git LFS 规则

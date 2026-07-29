@@ -43,7 +43,7 @@ Harness 应记录可复用轨迹：任务、思考、动作、观察、错误、
 
 - [[react-reasoning-acting-language-models]]
 - [[agenttuning]]
-- [[tool-use-system]]
+- tool-use-system
 
 ## 局限与待验证
 

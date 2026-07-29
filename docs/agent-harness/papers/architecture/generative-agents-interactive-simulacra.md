@@ -43,7 +43,7 @@ aliases:
 
 - [[reflexion]]
 - [[survey-llm-based-multi-agents]]
-- [[context-management]]
+- context-management
 
 ## 局限与待验证
 

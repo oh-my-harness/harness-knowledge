@@ -43,7 +43,7 @@ CAMEL 用角色扮演的方式让多个语言 Agent 通过对话协作完成任�
 
 - [[autogen]]
 - [[survey-llm-based-multi-agents]]
-- [[subagent-dispatch]]
+- subagent-dispatch
 
 ## 局限与待验证
 

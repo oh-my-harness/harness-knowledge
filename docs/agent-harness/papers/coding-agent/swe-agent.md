@@ -42,8 +42,8 @@ Harness 不只是“给模型一个 shell”。工具输出应紧凑、结构化
 ## 关联笔记
 
 - [[swe-bench]]
-- [[tool-use-system]]
-- [[worktree-management]]
+- tool-use-system
+- worktree-management
 
 ## 局限与待验证
 

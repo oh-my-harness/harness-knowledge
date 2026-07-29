@@ -44,7 +44,7 @@ ToolEmu 用模拟工具环境评估工具型语言 Agent 的风险。它避免�
 
 - [[agentdojo]]
 - [[agent-safetybench]]
-- [[permission-model]]
+- permission-model
 
 ## 局限与待验证
 

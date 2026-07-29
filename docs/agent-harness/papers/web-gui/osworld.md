@@ -43,7 +43,7 @@ Computer-use Harness 需要隔离环境、可重置镜像、屏幕录制、输�
 
 - [[visualwebarena]]
 - [[agentbench]]
-- [[permission-model]]
+- permission-model
 
 ## 局限与待验证
 

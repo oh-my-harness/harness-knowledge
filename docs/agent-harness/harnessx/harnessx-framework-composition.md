@@ -8,7 +8,7 @@ updated: 2026-07-29
 # HarnessX 框架组合机制
 
 > [!key-insight] 框架是一等公民对象
-> HarnessX 把整个框架抽象为**可序列化、可哈希、可等价对比、可整体替换**的一等公民对象。这是实现自动演化（[[harnessx-aegis|AEGIS]]）的底层基础——演化器必须能把一个框架实例当成基因来变异、交叉、评估。
+> HarnessX 把整个框架抽象为**可序列化、可哈希、可等价对比、可整体替换**的一等公民对象。这是实现自动演化（[[harnessx-aegis-evolution|AEGIS]]）的底层基础——演化器必须能把一个框架实例当成基因来变异、交叉、评估。
 
 ## 双组合点
 
@@ -270,4 +270,4 @@ flowchart TD
 - 源码：`harnessx/bundles/`（7 个预组合）
 - [[harnessx]] — 源摘要
 - [[strands-hooks-middleware]] — Strands 三层扩展对比
-- [[harness-architecture]] — 通用 Harness 架构
+- harness-architecture — 通用 Harness 架构

@@ -242,5 +242,5 @@ Agent
 - 源码: strands-py/src/strands/memory/ (memory_manager.py 34KB)
 - 源码: strands-py/src/strands/storage/ (storage.py)
 - [[strands-agents-sdk]] — 源摘要
-- [[subagent-dispatch]] — 通用 Subagent 调度
-- [[context-management]] — 上下文管理
+- subagent-dispatch — 通用 Subagent 调度
+- context-management — 上下文管理

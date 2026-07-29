@@ -43,7 +43,7 @@ Toolformer 研究语言模型如何通过自监督方式学习调用外部工具
 
 ## 关联笔记
 
-- [[tool-use-system]]
+- tool-use-system
 - [[toolllm]]
 - [[gorilla-large-language-model-connected-apis]]
 

@@ -44,7 +44,7 @@ Harness 的工具层需要支持工具发现、schema 暴露、调用轨迹记�
 
 - [[toolformer]]
 - [[gorilla-large-language-model-connected-apis]]
-- [[tool-use-system]]
+- tool-use-system
 
 ## 局限与待验证
 

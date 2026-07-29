@@ -43,7 +43,7 @@ Coding Agent 需要文件搜索、编辑、测试执行、日志解析、patch �
 
 - [[swe-agent]]
 - [[docs/ai-coding/_index|AI Coding Best Practices]]
-- [[worktree-management]]
+- worktree-management
 
 ## 局限与待验证
 

@@ -218,5 +218,5 @@ class ToolProvider(ABC):
 - 源码: `strands-py/src/strands/tools/registry.py` (29KB, `ToolRegistry`)
 - 源码: `strands-py/src/strands/tools/mcp/mcp_client.py` (1778行, MCP 集成)
 - [[strands-agents-sdk]] — 源摘要
-- [[tool-use-system]] — 通用 Tool Use 系统设计
+- tool-use-system — 通用 Tool Use 系统设计
 - [[strands-hooks-middleware]] — Middleware `ExecuteToolStage`

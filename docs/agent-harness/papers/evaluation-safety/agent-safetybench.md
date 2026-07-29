@@ -45,7 +45,7 @@ Agent-SafetyBench 系统评估 LLM Agent 的安全风险，重点关注 Agent �
 
 - [[agentdojo]]
 - [[toolemu]]
-- [[permission-model]]
+- permission-model
 
 ## 局限与待验证
 

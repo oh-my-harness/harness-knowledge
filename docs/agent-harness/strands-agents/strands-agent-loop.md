@@ -184,4 +184,4 @@ except Exception as error:
 - 重试: strands-py/src/strands/event_loop/_retry.py
 - [[strands-agents-sdk]] — 源摘要
 - [[strands-hooks-middleware]] — Hooks/Middleware/Interventions 三层扩展
-- [[harness-architecture]] — 通用 Harness 架构设计
+- harness-architecture — 通用 Harness 架构设计

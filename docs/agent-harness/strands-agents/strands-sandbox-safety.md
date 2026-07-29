@@ -133,7 +133,7 @@ StrandsTelemetry()
 | http_request | `make_http_request(*, client)` | 流式响应，cancel_signal 检查，>=400 抛 HttpRequestError |
 | sleep | `make_sleep(*, max_duration=60)` | asyncio.sleep，协作取消 |
 
-`file_editor` 的路径校验（绝对路径 + 禁 `..`）是与 [[permission-model]] 一致的安全基线。`http_request` 的流式 + cancel_signal 让长响应可被中途取消，避免阻塞 event loop。
+`file_editor` 的路径校验（绝对路径 + 禁 `..`）是与 permission-model 一致的安全基线。`http_request` 的流式 + cancel_signal 让长响应可被中途取消，避免阻塞 event loop。
 
 ## 内置插件
 
@@ -164,7 +164,7 @@ GoalLoop 的"独立 judge Agent"避免主 Agent 自我评估的偏见。Steering
 6. **ContextOffloader** 的预览+引用模式解决了大 tool result 占用上下文的问题
 7. **Steering 仅评估 ledger 模式**而非外部知识——重要的安全约束
 
-这些启示与 [[harness-architecture]] 的可插拔原则一致，可作为沙箱/可观测子系统的设计参考。Guardrails 类型定义、Cedar 策略、HITL 审批等安全层的进一步细节见 [[permission-model]] 和 [[hook-system]]。
+这些启示与 harness-architecture 的可插拔原则一致，可作为沙箱/可观测子系统的设计参考。Guardrails 类型定义、Cedar 策略、HITL 审批等安全层的进一步细节见 permission-model 和 hook-system。
 
 ## 参考
 
@@ -174,5 +174,5 @@ GoalLoop 的"独立 judge Agent"避免主 Agent 自我评估的偏见。Steering
 - 源码: strands-py/src/strands/vended_tools/ (bash, file_editor, http_request, sleep)
 - 源码: strands-py/src/strands/vended_plugins/ (goal, skills, steering, context_injector, context_offloader)
 - [[strands-agents-sdk]] — 源摘要
-- [[permission-model]] — 权限模型
-- [[hook-system]] — Hook 系统
+- permission-model — 权限模型
+- hook-system — Hook 系统

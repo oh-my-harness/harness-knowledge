@@ -38,7 +38,7 @@ aliases:
 
 - [[camel-communicative-agents]]
 - [[autogen]]
-- [[subagent-dispatch]]
+- subagent-dispatch
 
 ## 局限与待验证
 

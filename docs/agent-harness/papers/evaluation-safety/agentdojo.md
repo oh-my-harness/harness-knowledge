@@ -43,7 +43,7 @@ Harness 必须标注信息来源和信任边界。来自网页、邮件、文档
 
 - [[toolemu]]
 - [[agent-safetybench]]
-- [[permission-model]]
+- permission-model
 
 ## 局限与待验证
 

@@ -17,35 +17,35 @@ updated: 2026-07-29
 
 AI 辅助编程的工程实践与方法论：
 
-- **[[prompt-engineering|Prompt Engineering]]** — 编写高效 Prompt 的策略与模式
-- **[[ai-code-review|AI-Assisted Code Review]]** — 利用 AI 进行代码审查
-- **[[code-generation-strategies|代码生成策略]]** — AI 代码生成的工程化实践
-- **[[context-management|上下文管理]]** — 有效管理 AI 上下文窗口
-- **[[ai-agent-collaboration|AI Agent 协作模式]]** — 多 Agent 协作开发
+- **Prompt Engineering** — 编写高效 Prompt 的策略与模式
+- **AI-Assisted Code Review** — 利用 AI 进行代码审查
+- **代码生成策略** — AI 代码生成的工程化实践
+- **上下文管理** — 有效管理 AI 上下文窗口
+- **AI Agent 协作模式** — 多 Agent 协作开发
 
 ### 📚 [RAG & Knowledge Engineering](docs/rag-engineering/_index.md)
 
 构建 RAG 系统和知识库的核心知识：
 
-- **[[rag-architecture|RAG 架构]]** — 检索增强生成架构设计
-- **[[chunking-strategies|Chunking 策略]]** — 文档分块技术
-- **[[embedding-models|Embedding 模型选型]]** — 向量化模型对比与选择
-- **[[vector-databases|向量数据库]]** — 向量存储与检索
-- **[[retrieval-optimization|检索优化]]** — 检索质量提升技术
-- **[[knowledge-graph|知识图谱集成]]** — 结合图谱增强检索
-- **[[wiki-maintenance|知识库维护]]** — 知识库生命周期管理
+- **RAG 架构** — 检索增强生成架构设计
+- **Chunking 策略** — 文档分块技术
+- **Embedding 模型选型** — 向量化模型对比与选择
+- **向量数据库** — 向量存储与检索
+- **检索优化** — 检索质量提升技术
+- **知识图谱集成** — 结合图谱增强检索
+- **知识库维护** — 知识库生命周期管理
 
 ### ⚙️ [Agent Harness](docs/agent-harness/_index.md)
 
 Agent 运行时与 Harness 开发相关：
 
-- **[[harness-architecture|Harness 架构设计]]** — 运行时架构核心模式
-- **[[tool-use-system|Tool Use 系统]]** — 工具调用与注册机制
-- **[[subagent-dispatch|Subagent 调度]]** — 子 Agent 调度与编排
-- **[[worktree-management|Worktree 管理]]** — 隔离工作区方案
-- **[[permission-model|权限模型]]** — 安全与授权框架
-- **[[context-management-harness|Context 管理]]** — 上下文窗口策略
-- **[[hook-system|Hook 系统]]** — 扩展点与事件系统
+- **Harness 架构设计** — 运行时架构核心模式
+- **Tool Use 系统** — 工具调用与注册机制
+- **Subagent 调度** — 子 Agent 调度与编排
+- **Worktree 管理** — 隔离工作区方案
+- **权限模型** — 安全与授权框架
+- **Context 管理** — 上下文窗口策略
+- **Hook 系统** — 扩展点与事件系统
 - **[[strands-agents-sdk|Strands Agents SDK]]** — 开源 Agent SDK 架构学习（Agent Loop / 多模型 / 工具系统 / Hooks/Middleware / 多 Agent / 沙箱）
 - **[[harnessx|HarnessX]]** — 可组合、自适应、可演进的 Agent 运行框架工厂（9 维组件 / AEGIS 演化 / 协同优化 / 5 基准评测）
 

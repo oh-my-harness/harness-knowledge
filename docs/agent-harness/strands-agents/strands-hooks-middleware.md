@@ -178,5 +178,5 @@ class InterventionHandler(ABC):
 - 源码: strands-py/src/strands/interventions/ (actions, handler, registry)
 - 源码: strands-py/src/strands/vended_interventions/ (cedar, hitl)
 - [[strands-agents-sdk]] — 源摘要
-- [[hook-system]] — 通用 Hook 系统设计
-- [[permission-model]] — 权限模型
+- hook-system — 通用 Hook 系统设计
+- permission-model — 权限模型

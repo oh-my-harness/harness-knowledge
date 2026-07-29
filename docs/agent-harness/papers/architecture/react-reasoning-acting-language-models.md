@@ -45,7 +45,7 @@ Harness 的最小内核可以围绕 ReAct loop 设计：解析动作、执行工
 
 ## 关联笔记
 
-- [[tool-use-system]]
+- tool-use-system
 - [[reflexion]]
 - [[agentbench]]
 
